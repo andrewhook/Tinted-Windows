@@ -1,0 +1,16 @@
+#content {
+  width: 200px;
+}
+
+#content .apply-tint {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+#content button:last-child {
+  margin-bottom: 0;
+}
+
+#content label {
+  font-size: 14px;
+}

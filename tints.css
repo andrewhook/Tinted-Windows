@@ -1,0 +1,59 @@
+#tint {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.overlay-transparent-bg {
+  background-color: transparent !important;
+}
+
+.overlay-transparent-bg a,
+.overlay-transparent-bg p,
+.overlay-transparent-bg li,
+.overlay-transparent-bg span {
+  color: #000000 !important;
+}
+
+.tint-jade {
+  background-color: rgba(103, 192, 132, 0.4) !important;
+}
+
+.tint-grass {
+  background-color: rgba(82, 255, 82, 0.4) !important;
+}
+
+.tint-celery {
+  background-color: rgba(187, 246, 89, 0.4) !important;
+}
+
+.tint-yellow {
+  background-color: rgba(255, 252, 95, 0.4) !important;
+}
+
+.tint-orange {
+  background-color: rgba(255, 191, 95, 0.4) !important;
+}
+
+.tint-pink {
+  background-color: rgba(255, 140, 102, 0.4) !important;
+}
+
+.tint-magenta {
+  background-color: rgba(252, 110, 141, 0.4) !important;
+}
+
+.tint-purple {
+  background-color: rgba(218, 121, 191, 0.4) !important;
+}
+
+.tint-sky {
+  background-color: rgba(114, 180, 239, 0.4) !important;
+}
+
+.tint-aqua {
+  background-color: rgba(82, 239, 252, 0.4) !important;
+}
